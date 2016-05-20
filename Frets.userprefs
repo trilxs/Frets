@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Frets\Frets.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.139893e5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frets\PlayFrets.cs">
+    <Files>
+      <File FileName="Frets\Properties\AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="Frets\Properties\AssemblyInfo.cs" Line="7" Column="1" />
+      <File FileName="Frets\PlayFrets.cs" Line="37" Column="44" />
+      <File FileName="..\SoundNote\SoundNote\MainActivity.cs" Line="200" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Frets AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

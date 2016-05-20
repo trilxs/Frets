@@ -1,0 +1,11 @@
+D:\Projects\Frets\Frets\obj\Debug\assemblies\Frets.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\Mono.Android.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\mscorlib.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\System.Core.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\System.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\System.Xml.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Projects\Frets\Frets\obj\Debug\assemblies\System.ServiceModel.Internals.dll
